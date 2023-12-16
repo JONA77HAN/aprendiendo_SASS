@@ -1,3 +1,13 @@
+$color1: crimson;
+
 h2 {
-    color: crimson
+    color: $color1;
+    font-size: 3rem;
+    text-align: center;
+    }
+p {
+    color : $color1;
 }
+
+//https://www.youtube.com/watch?v=kaSVabk-jbA
+//minuto 12:16

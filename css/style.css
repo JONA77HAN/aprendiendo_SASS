@@ -1,5 +1,11 @@
 h2 {
   color: crimson;
+  font-size: 3rem;
+  text-align: center;
+}
+
+p {
+  color: crimson;
 }
 
 /*# sourceMappingURL=style.css.map */
